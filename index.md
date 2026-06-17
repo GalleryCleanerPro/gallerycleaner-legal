@@ -4,7 +4,7 @@ title: Gallery Cleaner — Legal
 
 # Gallery Cleaner
 
-- [Privacy Policy](/privacy)
-- [Terms of Service](/terms)
+- [Privacy Policy](/gallerycleaner-legal/privacy)
+- [Terms of Service](gallerycleaner-legal/terms)
 
 Contact: aliburakbarac@gmail.com
