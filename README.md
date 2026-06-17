@@ -1,0 +1,1 @@
+# gallerycleaner-legal
