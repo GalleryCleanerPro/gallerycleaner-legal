@@ -4,8 +4,9 @@ title: Terms of Service
 
 # Terms of Service
 
-**Last updated: June 17, 2026**
-**Effective date: June 17, 2026**
+**Last updated: June 18, 2026**
+
+**Effective date: June 18, 2026**
 
 These Terms of Service (the "**Terms**") form a binding agreement between you and **Ali Burak Baraç**, an individual based in the Republic of Türkiye ("**we**", "**us**", "**our**"), and they govern your access to and use of the mobile application **Gallery Cleaner** for iOS (the "**App**"), the in-app subscription tiers, and any related services we provide (collectively, the "**Service**").
 
@@ -127,6 +128,7 @@ The Service is built on top of, and interoperates with, the following third-part
 
 - **Apple Inc.**: the App Store, the StoreKit subscription system, the Photos framework, the iCloud library, and the operating system on your device are operated by Apple under its own agreements with you, including the [Apple Media Services Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/) and the [Apple Privacy Policy](https://www.apple.com/legal/privacy/).
 - **RevenueCat, Inc.**: a subscription infrastructure provider that handles receipt verification and entitlement state on our behalf. Its handling of personal data is described in our Privacy Policy and in RevenueCat's [Privacy Notice](https://www.revenuecat.com/privacy).
+- **Google LLC (Firebase Analytics)**: a measurement service that collects pseudonymous usage statistics from the App so that we can understand how the product is used and improve it. The categories of data we send to Firebase Analytics, the safeguards that apply, and the way you can exercise your rights with respect to that data are described in our [Privacy Policy](https://gallerycleanerpro.github.io/gallerycleaner-legal/privacy). Firebase Analytics is governed by the [Google Privacy Policy](https://policies.google.com/privacy) and the [Firebase Privacy and Security Information](https://firebase.google.com/support/privacy).
 
 We are not responsible for the acts or omissions of these third parties.
 
