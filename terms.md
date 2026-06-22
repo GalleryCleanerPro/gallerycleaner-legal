@@ -61,12 +61,9 @@ The Premium tier unlocks additional features, currently including (but not limit
 
 ### 4.3 Plans and price
 
-Premium is offered as an auto-renewing subscription. As of the effective date of these Terms, the available plans are:
+Premium is offered as an auto-renewing subscription. We currently offer monthly and annual plans. **The current price for each plan is the price shown to you on the App Store purchase sheet at the moment of purchase** and reflects your local currency and any applicable taxes Apple is required to display.
 
-- **Monthly**: 5.99 USD per month (or the local equivalent shown to you by the App Store before purchase).
-- **Annual**: 39.99 USD per year (or the local equivalent shown to you by the App Store before purchase).
-
-The price displayed to you in the App and on the App Store at the moment of purchase is the price that applies to your purchase. Prices may change for future renewal periods; we will notify you of changes through the means and within the deadlines required by Apple and by applicable law.
+Prices may change for future renewal periods, and the set of plans we offer may change over time. We will notify you of any change of price through the means and within the deadlines required by Apple and by applicable law before the change takes effect for your subscription.
 
 ### 4.4 Billing, auto-renewal, and cancellation (Apple's required disclosure)
 
